@@ -1,0 +1,8 @@
+# Ignore personal or sensitive files
+New Text Document.txt
+Adam_Capuana_ResumeC 112124.docx
+resume_editable.json
+Updated_Adam_Capuana_Resume.docx
+*.log
+*.tmp
+.vscode/
